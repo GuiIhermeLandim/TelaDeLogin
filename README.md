@@ -19,6 +19,8 @@ O objetivo desta interface é aplicar conceitos e metodologias aprendidas em aul
     Após a estruturação das páginas com HTML, finalizei o site acrescentando CSS em todas as páginas.
 </details>
 
+![Login](https://user-images.githubusercontent.com/79064185/206314434-1b2ebd3b-794f-49c9-aa5e-8817a97770f2.png)
+
 ## 🔨 Funcionalidades do projeto
 
 A tela de Login ainda não é funcional, foquei em me aprimorar primeiro em conceitos básicos na estruturação de Interfaces com HTML e CSS.
